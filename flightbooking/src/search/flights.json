@@ -1,0 +1,19 @@
+{
+    "flights": [
+        {
+           
+            "from": "Bangalore",
+            "to": "Kakinada",
+            "date":"25-04-2023"
+        },
+        { "from": "LHR",
+            "to": "JFK",
+            "date":"26-04-2023"
+        },
+        {
+            "from": "LHR",
+            "to": "JFK",
+            "date":"27-04-2023"
+        }
+    ]
+}

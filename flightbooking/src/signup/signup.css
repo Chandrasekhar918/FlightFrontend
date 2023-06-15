@@ -1,0 +1,207 @@
+
+.card8{
+border:1px solid;
+    width:310px;
+    border-color: #e9e6e2;
+    background-color:white;
+    margin-top: 25px;
+    margin-left: 550px;
+    height: 530px;
+    padding: 10px;
+    
+}
+
+.img6{
+
+        margin-top: 0px;
+        height: 650px;
+        background-image: url("https://wallpapertag.com/wallpaper/full/0/b/2/347124-white-background-hd-1920x1200-720p.jpg");
+    
+    
+}
+.card-img8{
+    height: 160px;
+    width: 290px;
+
+
+}
+.f8{
+  border-radius: 150px;
+  height: 45px;
+  width:80%;
+  margin-left:15px;
+  margin-top: -5px;
+}
+
+.card-tit8{
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-bottom: 25px;
+}
+#i1{
+    margin-top: 0px;
+    margin-left: 15px;
+  
+
+}
+
+
+.btn.btn-pri {
+    background-color:greenyellow;
+    border-color: blue;
+    color: black;
+    border-radius: 15px;
+    margin-left: 65px;
+    width: 150px;
+    margin-bottom: 25px;
+    margin-top: -10px;
+}
+
+
+.f1{   margin-top: 100px;
+    margin-left: 20px;
+    margin-bottom: 25px;
+    font-family:sans-serif;
+    color: navy;
+
+
+}
+
+.container5{
+
+margin: 250px ;
+margin-left: 270px;
+padding-left: 300px;
+width: 600px;
+height: 360px;
+margin-top: -40px;
+}
+.loginbt{
+margin-left:60px;
+margin-top: 30px;
+background-color: green;
+width: 200px;
+}
+.password{
+margin-top: 20px;
+}
+
+
+
+/*.card-img2{
+    height: 300px;
+    width: 40px;
+
+
+}
+.card-ti{
+    margin-top: 15px;
+    margin-bottom: 25px;
+    margin-left: 30px;
+}
+
+
+.card3{
+height: 500px;
+    width: 300px;
+    border-color: #da2a33;
+    background-color: #e9dfdf9f;
+    margin-top: 20px;
+    margin-left: 550px;
+    
+}
+
+.f9{
+    border-radius: 120px;
+    height: 45px;
+    width:80%;
+   margin-left: 10px;
+  }
+
+.card6{
+     
+    border-color: #f2af3d;
+    background-color: #e9dfdf9f;
+    margin-top: 50px;
+    
+padding: 50px;
+margin-top: 100px;
+margin-left: 550px;
+background-color: rgb(178, 199, 178);
+height: 500px;
+width: 350px;
+}
+
+.card-img2{
+    height: 50px;
+    margin-left: 100px;
+
+
+}
+
+.f6{
+    border-radius: 150px;
+    height: 45px;
+    width: 85%;
+  }
+.form1{
+
+    margin-top: -70px;
+}
+.a1{
+    height: 15px;
+    width: 20px;
+    margin-top: 5px;
+    margin-left: 30px;
+}
+
+.a2{
+    height: 15px;
+    width: 20px;
+    margin-top: 5px;
+    margin-left:30px;
+
+}
+
+
+
+.vs{
+   
+    margin-top: 60px;
+    margin-left: 50px;
+    margin-bottom: 25px;
+    font-family:sans-serif;
+
+  
+  
+  
+}
+.s1{
+  
+    padding: 12px;
+    border-radius: 25px;
+    width:500px;
+    margin: center;  
+    margin-left: -10px;
+}
+
+#btn {
+    margin-left: 40px;
+    margin-top: 20px;
+    background-color:rgb(41, 210, 22);
+    padding: 5px;
+    border-radius: 25px;
+    width:180px;
+
+}
+
+.email{
+    margin-top: 50px;
+}
+.pass{
+    margin-top: 10px;
+}
+.confpass{
+    margin-top: 10px;
+}
+*/

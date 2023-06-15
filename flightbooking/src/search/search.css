@@ -1,0 +1,50 @@
+:root{
+
+    
+    margin-top: 50px;
+}
+
+
+
+
+#up{
+margin-top: 25px;
+
+}
+
+.form-control, .form-select {
+    border-color:#f2af3d;;
+    color:black;
+
+   
+    font-size: 15px;
+}
+
+.d2{
+  
+  
+}
+#black{
+    color:black;
+}
+.btn.btn-primary {
+    background-color: red;
+    border-color: red;
+}
+.img7{
+    margin-top: -32px;
+    background-image: url("https://media.istockphoto.com/id/944880340/photo/chaotic-black-low-poly-surface-abstract-3d-render.jpg?s=612x612&w=0&k=20&c=Zw37pQRYzTY4mQU0Xwi36t7AMLWwN8rqZxkxVdKsrmM=");
+height: 660px;
+}
+
+.cardd{
+    /*background-color:rgb(68, 67, 39);*/
+
+    border: 0;
+    color:#8027b8;
+    width:auto;
+    margin-top: 50px;
+    opacity: 5.5;
+   
+  
+}

@@ -1,0 +1,81 @@
+.hlo{
+    margin-left: 595px;
+    margin-top: -10px;
+}
+
+.sr {
+    text-align: center;
+    color: navy;
+}
+
+.container {
+    
+  width: 600px;
+  margin: auto;
+}
+.but1{
+    width:200px;
+    margin-left: 15px;
+ margin-top: -10px;
+}
+.but2{
+    width:200px; 
+    margin-left:  45px;
+    margin-bottom:810px;
+}
+
+.grid{
+    display: flex;
+}
+.grid td {
+    padding: 6px;
+  width: 65px;
+  height: 45px;
+  border: 2px solid orange;
+  text-align: center;
+  float: left;
+  margin: 7px;
+}
+
+.grid td:hover {
+  opacity: 0.7;
+  cursor: pointer;
+}
+
+.reserved {
+  background: #1dfc30;
+  color: #fff;
+  display: inline-block;
+}
+
+.selected {
+  background: red;
+  color: #fff;
+  display: inline-block;
+}
+
+.reserved::after {
+  content: "R";
+}
+
+.selected::after {
+  content: "S";
+}
+
+.available::after {
+  content: "A";
+}
+
+.available {
+  color: rgba(1, 14, 1, 0.942);
+}
+
+
+
+li {
+  list-style: none;
+}
+
+.btnmargin {
+  margin-top: 25px;
+}

@@ -1,0 +1,91 @@
+
+
+ 
+
+  .main2 {
+   
+    margin-top: 10px;
+    text-align: center;
+    justify-content: center;
+    display: flex; 
+    background-image: url("https://world-easc.com/wp-content/uploads/2018/02/payment-background.jpg");
+    padding-top: 80px;
+    padding-bottom: 45px;
+    padding-left: 280px;
+    
+  height: 650px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+    .sub-main2{
+      /* padding-top: 600x; */
+      margin-bottom: -35px;
+      margin-top: -30px;
+      display: flex;
+      justify-content: center;
+      height: 500px;
+      width: 45%;
+      box-shadow: 11px 12px 13px 12px rgb(207, 207, 207);
+      padding-top: 10px;
+      border-radius: 60px; 
+      background-color: white;
+      border: 1px;
+      margin-left: 100px;
+    }
+  
+   
+.paybut{
+  color:rgb(25, 1, 14);
+  background-color: rgb(76, 235, 13);
+  width: 100px;
+  margin-left: 120px;
+  margin-top: 10px;
+  border-radius: 10px;
+  
+}
+    .card7{
+        
+        height: 65px;
+        width: 25px;
+        position: absolute;
+        padding: 14px 0 0 25px;
+       
+  
+      }
+    .heading1{
+      color: #ab06f1;
+      font-family: "Times New Roman";
+      font-size: 25px;
+    }
+    /* .user-details{
+      padding-top: 10px;
+    } */
+    .text1{
+      margin-top: 10px;
+      font-size: 20px;
+      font-family: "Times New Roman";
+      border-color: red;
+     
+    }
+    .name1{
+      margin-top: 5px;
+      padding-top: 5px;  
+      padding-left: 70px;
+      font-size: 20px;
+      width: 300px;
+      height:50px;
+      border-radius: 15px;
+      border-color: #1AA7EC;
+    }
+    .first-input1{
+      padding-top: 5px;
+    }
+    .second-input1{
+        padding-top: 5px;
+    }
+    .third-input1{
+      padding-top: 5px;
+    }
+   
+  

@@ -1,0 +1,30 @@
+.heading2{
+    margin-top: 70px;
+    margin: center;
+    margin-left: 50px;
+}
+.nam{
+
+    margin-left: -50px;
+}
+.form2{
+
+    margin-top: 50px;
+    margin: center;
+    margin-left: 50px;  
+}
+.checkin{
+    margin-top: -30px;
+    height: 640px;
+    background-image: url("http://www.pixelstalk.net/wp-content/uploads/2016/06/Free-HD-Light-Blue-Wallpaper-Images.jpg");
+}
+
+.checkinbut{
+    color:rgb(25, 1, 14);
+    background-color: rgb(76, 235, 13);
+    width: 100px;
+    margin-left: 150px;
+    margin-top: 30px;
+    border-radius: 10px;
+    
+}

@@ -1,0 +1,40 @@
+   
+.footer{
+   
+   
+    color: rgb(97, 83, 159);
+    font-size: 15px;
+    background-color:lavender;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    
+  }
+  #f1{
+    margin-top: 2px;
+  }
+  .footer {
+    background: #66b0f5;
+    color: #fff;
+    text-align: center;
+}
+
+.footer-container {
+    width: 85vw;
+    margin: 0 auto;
+    padding: 30px 0;
+}
+
+.footer-container p,
+.footer-container a,
+.footer-container span {
+    opacity: 0.8;
+}
+
+.footer a {
+    display: block;
+    color: #fff;
+    text-decoration: none;
+}
